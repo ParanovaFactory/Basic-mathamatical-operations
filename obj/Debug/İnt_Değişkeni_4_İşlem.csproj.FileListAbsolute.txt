@@ -1,0 +1,10 @@
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\bin\Debug\İnt_Değişkeni_4_İşlem.exe.config
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\bin\Debug\İnt_Değişkeni_4_İşlem.exe
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\bin\Debug\İnt_Değişkeni_4_İşlem.pdb
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\obj\Debug\İnt_Değişkeni_4_İşlem.csprojAssemblyReference.cache
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\obj\Debug\İnt_Değişkeni_4_İşlem.Form1.resources
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\obj\Debug\İnt_Değişkeni_4_İşlem.Properties.Resources.resources
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\obj\Debug\İnt_Değişkeni_4_İşlem.csproj.GenerateResource.cache
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\obj\Debug\İnt_Değişkeni_4_İşlem.csproj.CoreCompileInputs.cache
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\obj\Debug\İnt_Değişkeni_4_İşlem.exe
+O:\Udemy C# Örnekleri\İnt_Değişkeni_4_İşlem\İnt_Değişkeni_4_İşlem\obj\Debug\İnt_Değişkeni_4_İşlem.pdb

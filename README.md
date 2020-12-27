@@ -1,1 +1,2 @@
-# int-de-i-keni-kullanarak-4-islem
+# int değişkeni kullanarak 4 işlem
+# Int değişken türünde değişkenler tanımlayıp bu değişkenler ile 4 işlem yaptığım C# form uygulaması
